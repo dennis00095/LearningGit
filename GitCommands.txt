@@ -15,3 +15,19 @@ GIT COMMANDS
 	4. git add <filename>
 
 	adds that specific file name in your .git folder
+
+	5. git commit -m 'description'
+	
+	describes what is being committed (file being committed)
+
+	<.................. for first time users........................>
+		 to set up your account use the following
+
+		git config --global user.email "user@example.com"
+		
+            	git config --global user.name "user name"
+
+	6. git remote add origin.
+
+	7.git push -u origin master
+
