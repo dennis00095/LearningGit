@@ -1,0 +1,17 @@
+GIT COMMANDS
+
+	1. git init
+
+	creates for you hidden folder that holds all the files to be sent to git
+
+	2. git add .
+
+	adds all the files in the .git folder. Excludes all ignored files
+
+	3. git add *
+
+	adds all the files in the .git folder. Including all ignored files
+
+	4. git add <filename>
+
+	adds that specific file name in your .git folder
